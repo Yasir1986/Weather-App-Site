@@ -10,3 +10,7 @@ npm install
 npm start
 
 Enjoy
+
+OR
+
+for live deploy link: https://weatherappsite.herokuapp.com/
